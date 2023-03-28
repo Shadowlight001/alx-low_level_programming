@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
-	 * main - A program that prints_putchar
-	 * is written by mbah
+	 * main - print _putchar
+	 * is written by shadow
 	 * Return: 0
 	 */
 
